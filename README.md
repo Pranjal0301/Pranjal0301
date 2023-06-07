@@ -36,6 +36,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjal0301&" alt="pranjal0301" /></p>
 
+
 <h3 align="left">GitHub Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjal0301" alt="pranjal0301" /></a> </p>
 

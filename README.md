@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js, React Native, Flutter, Node.js, Mongo**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pranjal0301](https://github.com/Pranjal0301)
+- 👨‍💻 All of my projects are available at [https://github.com/Pranjal0301](https://pranjal-dev.netlify.app)
 
 - 📫 How to reach me **sarodepranjaloffice@gmail.com**
 

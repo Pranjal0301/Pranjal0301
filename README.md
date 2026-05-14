@@ -39,8 +39,8 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjal0301&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal0301&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" width="38%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pranjal0301&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" width="48%" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal0301&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" width="38%" /> -->
 </p>
 
 <p align="center">

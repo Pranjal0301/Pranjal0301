@@ -7,8 +7,16 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranjal0301&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://hits.sh/github.com/pranjal0301.svg?label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://github.com/pranjal0301?tab=followers"><img src="https://img.shields.io/github/followers/pranjal0301?label=Followers&style=flat-square&color=0e75b6" alt="followers" /></a>
+</p>
+
+---
+
+### 🧩 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/pranjal0301/" target="_blank"><img src="https://leetcard.jacoblin.cool/pranjal0301?theme=light,dark&ext=heatmap" alt="LeetCode stats" /></a>
 </p>
 
 ---
@@ -48,11 +56,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pranjal0301&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&stroke=0e75b6&v=2" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranjal0301&bg_color=00000000&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="contribution graph" />
+  <img src="https://streak-stats.demolab.com?user=pranjal0301&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6&stroke=0e75b6&v=4" alt="GitHub streak" />
 </p>
 
 ---
